@@ -1,0 +1,100 @@
+---
+booktitle: Proceedings of the 13th International Conference on Probabilistic Graphical
+  Models
+shortname: PGM
+volume: '343'
+year: '2026'
+start: 2026-09-09
+end: 2026-09-11
+published: 2026-11-07
+conference_number: '13'
+sections:
+- name: preface
+  title: Preface
+- name: papers
+  title: Papers
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: PGM-2026
+month: 0
+cycles: false
+bibtex_editor: Camps-Valls, Gustau and Leonelli, Manuele and Varando, Gherardo
+editor:
+- given: Gustau
+  family: Camps-Valls
+- given: Manuele
+  family: Leonelli
+- given: Gherardo
+  family: Varando
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 13th International Conference on Probabilistic Graphical Models
+    Held in Institut Valenci\`a d'Art Modern (IVAM), Valencia, Spain on 09-11 September 2026
+
+  Published as Volume 343 by the Proceedings of Machine Learning Research on 07 November 2026.
+
+  Volume Edited by:
+    Gustau Camps-Valls
+    Manuele Leonelli
+    Gherardo Varando
+
+  Series Editors:
+    Tegan Emerson
+    Hoel Kervadec
+    Neil D. Lawrence
+date_str: '09--11 Sep'
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v343"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v343
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v343
+email: ''
+conference:
+  name: International Conference on Probabilistic Graphical Models
+  url: https://www.uv.es/pgm2026/
+  location: Institut Valencià d’Art Modern (IVAM), Valencia, Spain
+  dates:
+  - 2026-09-09
+  - 2026-09-10
+  - 2026-09-11
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+link_visibility:
+  openreview: true
+  pdf: true
+  supplementary: true
+  software: true
+  video: true
+  arxiv: true
+  doi: true
+  website: true
+orig_bibfile: pgm26_clean.bib
+# Site settings
+# Original source:  pgm26_clean.bib
